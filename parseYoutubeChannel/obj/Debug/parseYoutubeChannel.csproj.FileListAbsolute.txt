@@ -1,0 +1,9 @@
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\bin\Debug\parseYoutubeChannel.exe.config
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\bin\Debug\parseYoutubeChannel.exe
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\bin\Debug\parseYoutubeChannel.pdb
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.csprojResolveAssemblyReference.cache
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.Form1.resources
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.Properties.Resources.resources
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.csproj.GenerateResource.Cache
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.exe
+E:\C#\parseYoutubeChannel\parseYoutubeChannel\obj\Debug\parseYoutubeChannel.pdb
